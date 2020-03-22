@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PaintApp</string>
+    <string name="start_new">New</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+    // spinner
+    <string-array name="Dessins">
+        <item>blanc</item>
+        <item>pikachu</item>
+        <item>hamtaro</item>
+        <item>goku</item>
+        <item>naruto</item>
+        <item>saitama</item>
+        <item>goku</item>
+    </string-array>
+</resources>
